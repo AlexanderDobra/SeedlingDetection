@@ -23,15 +23,15 @@ CNN Models used:
 
 ## Object Detection Architecture
 
-<img src="images/full%20model.PNG" width="500">
+<img src="images/full%20model.PNG" width="1000">
 
 ## Monocular Depth Estimation Architecture
 
-<img src="images/fourth.png" width="500">
+<img src="images/fourth.png" width="1000">
 
 ## Loss Function for MDE Network
 
-<img src="images/losses.PNG" width="500">
+<img src="images/losses.PNG" width="1000">
 
 See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/images/Bachelorthesis_Alexander_Dobra.pdf) for further clarification.
 
