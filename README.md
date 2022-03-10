@@ -29,10 +29,6 @@ CNN Models used:
 
 <img src="images/fourth.png" width="500">
 
-<img src="images/bachelor%20depth%20prediction.PNG" width="500">
-
-<img src="images/bachelor%20predictions.PNG" width="500">
-
 ## Loss Funktion for MDE Network
 
 <img src="images/losses.PNG" width="500">
@@ -42,6 +38,18 @@ See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/i
 ## Results
 
 See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/images/Bachelorthesis_Alexander_Dobra.pdf) for further clarification.
+
+### Visualising Bounding Boxes
+
+Pretrained Pre-RPN over 35 epochs (2 samples of validation set) on different settings of the box_predictor layers:
+ 
+<img src="images/bachelor%20predictions.PNG" width="500">
+
+### Visualising Depth Estimations
+
+<img src="images/bachelor%20depth%20prediction.PNG" width="500">
+
+### Object Detection with Monocular Depth Estimation
 
 <img src="images/last%20top%20table.PNG" width="500">
 <img src="images/last%20first%20table.PNG" width="500">
