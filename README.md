@@ -43,11 +43,11 @@ See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/i
 
 Pretrained Pre-RPN over 35 epochs (2 samples of validation set) on different settings of the box_predictor layers:
  
-<img src="images/bachelor%20predictions.PNG" width="500">
+<img src="images/nice%20predictions.PNG" width="500">
 
 ### Visualising Depth Estimations
 
-<img src="images/bachelor%20depth%20prediction.PNG" width="500">
+<img src="images/nice%20estimations.PNG" width="500">
 
 ### Object Detection with Monocular Depth Estimation
 
