@@ -23,7 +23,7 @@ CNN Models used:
 
 ## Monocular Depth Estimation Architecture
 
-<img src="images/fourth.PNG" width="500">
+<img src="images/fourth.png" width="500">
 
 <img src="images/bachelor%20depth%20prediction.PNG" width="500">
 
