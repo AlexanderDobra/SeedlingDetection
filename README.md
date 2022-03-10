@@ -1,6 +1,6 @@
 # Improving Seedling Detection by Predicting Height Information
 
-
+<img src="https://media.giphy.com/media/zZzDZHrFE1wpTeIISb/giphy.gif" width="40" height="40" />
 
 ## Description
 
