@@ -33,7 +33,15 @@ CNN Models used:
 
 <img src="images/bachelor%20predictions.PNG" width="500">
 
-# Results
+## Loss Funktion for MDE Network
+
+<img src="images/losses.PNG" width="500">
+
+See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/images/Bachelorthesis_Alexander_Dobra.pdf) for further clarification.
+
+## Results
+
+See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/images/Bachelorthesis_Alexander_Dobra.pdf) for further clarification.
 
 <img src="images/last%20top%20table.PNG" width="500">
 <img src="images/last%20first%20table.PNG" width="500">
