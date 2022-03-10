@@ -29,7 +29,7 @@ CNN Models used:
 
 <img src="images/fourth.png" width="500">
 
-## Loss Funktion for MDE Network
+## Loss Function for MDE Network
 
 <img src="images/losses.PNG" width="500">
 
