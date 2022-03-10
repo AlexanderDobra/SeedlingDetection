@@ -23,15 +23,15 @@ CNN Models used:
 
 ## Object Detection Architecture
 
-<img src="images/full%20model.PNG" width="1000">
+<img src="images/full%20model.PNG" width="750">
 
 ## Monocular Depth Estimation Architecture
 
-<img src="images/fourth.png" width="1000">
+<img src="images/fourth.png" width="750">
 
 ## Loss Function for MDE Network
 
-<img src="images/losses.PNG" width="1000">
+<img src="images/losses.PNG" width="750">
 
 See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/images/Bachelorthesis_Alexander_Dobra.pdf) for further clarification.
 
@@ -43,18 +43,18 @@ See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/i
 
 Pretrained Pre-RPN over 35 epochs (2 samples of validation set) on different settings of the box_predictor layers:
  
-<img src="images/nice%20predictions.PNG" width="500">
+<img src="images/nice%20predictions.PNG" width="750">
 
 ### Visualising Depth Estimations
 
-<img src="images/nice%20estimations.PNG" width="500">
+<img src="images/nice%20estimations.PNG" width="750">
 
 ### Object Detection with Monocular Depth Estimation
 
-<img src="images/last%20top%20table.PNG" width="500">
-<img src="images/last%20first%20table.PNG" width="500">
-<img src="images/last%20middle%20table.PNG" width="500">
-<img src="images/last%20last%20table.PNG" width="500">
+<img src="images/last%20top%20table.PNG" width="750">
+<img src="images/last%20first%20table.PNG" width="750">
+<img src="images/last%20middle%20table.PNG" width="750">
+<img src="images/last%20last%20table.PNG" width="750">
 
 
 
