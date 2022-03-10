@@ -1,8 +1,12 @@
 # Improving Seedling Detection by Predicting Height Information
 
+
+
 ## Description
 
-Improving Seedling Detection of conifer seedlings along seismic lines with addition of predicted height information to drone images.
+GOAL: Improving Seedling Detection of conifer seedlings along seismic lines with addition of predicted height information to drone images.
+
+See paper [here](https://github.com/AlexanderDobra/SeedlingDetection/blob/main/images/Bachelorthesis_Alexander_Dobra.pdf) for further clarification.
 
 CNN Models used:
 - Object Detection:
