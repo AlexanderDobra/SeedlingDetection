@@ -17,6 +17,14 @@ CNN Models used:
     - Modified ResNet101-FPN
     - **Input/Outputs**: Images ⮕ Depth Prediction Maps
 
+## Object Detection Architecture
+
+<img src="images/full%20model.PNG" width="500">
+
+## Monocular Depth Estimation Architecture
+
+<img src="images/fourth.PNG" width="500">
+
 <img src="images/bachelor%20depth%20prediction.PNG" width="500">
 
 <img src="images/bachelor%20predictions.PNG" width="500">
