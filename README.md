@@ -51,10 +51,8 @@ Pretrained Pre-RPN over 35 epochs (2 samples of validation set) on different set
 
 ### Object Detection with Monocular Depth Estimation
 
-<img src="images/last%20top%20table.PNG" width="750">
-<img src="images/last%20first%20table.PNG" width="750">
-<img src="images/last%20middle%20table.PNG" width="750">
-<img src="images/last%20last%20table.PNG" width="750">
+<img src="images/finalresults.PNG" width="750">
+
 
 
 
